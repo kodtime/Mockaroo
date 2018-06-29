@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23690" started-at="2018-06-29T04:41:49Z" finished-at="2018-06-29T04:42:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23690" started-at="2018-06-29T04:41:49Z" finished-at="2018-06-29T04:42:12Z">
+      <class name="MockRooDataValidation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MockRooDataValidation@1794d431]" name="setUp" is-config="true" duration-ms="9343" started-at="2018-06-29T04:41:49Z" finished-at="2018-06-29T04:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:41:58Z" finished-at="2018-06-29T04:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="getTitle()[pri:1, instance:MockRooDataValidation@1794d431]" name="getTitle" duration-ms="17" started-at="2018-06-29T04:41:58Z" finished-at="2018-06-29T04:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:41:58Z" finished-at="2018-06-29T04:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="getDisplayed()[pri:2, instance:MockRooDataValidation@1794d431]" name="getDisplayed" duration-ms="94" started-at="2018-06-29T04:41:58Z" finished-at="2018-06-29T04:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDisplayed -->
+        <test-method status="PASS" signature="RemoveFields()[pri:3, instance:MockRooDataValidation@1794d431]" name="RemoveFields" duration-ms="524" started-at="2018-06-29T04:41:58Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveFields -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:41:58Z" finished-at="2018-06-29T04:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="checkLabelsDisplayed()[pri:4, instance:MockRooDataValidation@1794d431]" name="checkLabelsDisplayed" duration-ms="134" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLabelsDisplayed -->
+        <test-method status="PASS" signature="TestAddAnotherFieldEnabled()[pri:5, instance:MockRooDataValidation@1794d431]" name="TestAddAnotherFieldEnabled" duration-ms="36" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAddAnotherFieldEnabled -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="1" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="TestDefaultNumberofRows()[pri:6, instance:MockRooDataValidation@1794d431]" name="TestDefaultNumberofRows" duration-ms="32" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDefaultNumberofRows -->
+        <test-method status="PASS" signature="TestDefaultFormatSelection()[pri:7, instance:MockRooDataValidation@1794d431]" name="TestDefaultFormatSelection" duration-ms="30" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDefaultFormatSelection -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="1" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="TestDefaultLineEnding()[pri:8, instance:MockRooDataValidation@1794d431]" name="TestDefaultLineEnding" duration-ms="101" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDefaultLineEnding -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="1" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="TestHeaderChecked()[pri:9, instance:MockRooDataValidation@1794d431]" name="TestHeaderChecked" duration-ms="79" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHeaderChecked -->
+        <test-method status="PASS" signature="EnterCityName()[pri:10, instance:MockRooDataValidation@1794d431]" name="EnterCityName" duration-ms="2080" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterCityName -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:41:59Z" finished-at="2018-06-29T04:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="EnterCountryName()[pri:11, instance:MockRooDataValidation@1794d431]" name="EnterCountryName" duration-ms="6657" started-at="2018-06-29T04:42:01Z" finished-at="2018-06-29T04:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterCountryName -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:42:01Z" finished-at="2018-06-29T04:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="DownloadData()[pri:12, instance:MockRooDataValidation@1794d431]" name="DownloadData" duration-ms="4387" started-at="2018-06-29T04:42:08Z" finished-at="2018-06-29T04:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadData -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:MockRooDataValidation@1794d431]" name="loadPage" is-config="true" duration-ms="0" started-at="2018-06-29T04:42:08Z" finished-at="2018-06-29T04:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:MockRooDataValidation@1794d431]" name="cleanUp" is-config="true" duration-ms="121" started-at="2018-06-29T04:42:12Z" finished-at="2018-06-29T04:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- MockRooDataValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
